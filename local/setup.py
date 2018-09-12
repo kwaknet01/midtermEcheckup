@@ -1,0 +1,1 @@
+/home/pi/share/HospitalManagementSystem/setup.py
